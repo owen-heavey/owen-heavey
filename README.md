@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @owen-heavey
-- 👀 I’m discovering my path with programming. I'm interested in Cloud, security, AI.
+- 👀 I’m discovering my path with programming. I'm interested in Cloud, security, AI and Blockchain.
 - 🌱 I’m currently enrolled in the Harvard CS50 "Computer Science" course and am learning Java (through Linux)
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me oheavey@gmail.com

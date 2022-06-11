@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @owen-heavey
-- 👀 I’m discovering my path with programming. I'm interested in Cloud, security, AI and Blockchain.
-- 🌱 I’m currently enrolled in the Harvard CS50 "Computer Science" course and am learning Java (through Linux)
-- 💞️ I’m looking to collaborate on projects
-- 📫 You can reach me oheavey@gmail.com
+> Student, Carpenter, Project Manager, Dad, Music Producer, Big Reader, Seeker... 
+> Studying programming, CS50, Java, Linux, AWS. 
+> Working my way into the cloud sector. 
+> Interested in a wide range of areas: Cloud, Networks, Security, AI, Blockchain,
+> Open to connect...
 
 <!---
 owen-heavey/owen-heavey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
